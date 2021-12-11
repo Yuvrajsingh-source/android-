@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="submit">Submit</string>
+    <string name="enter_the_kg_value_below">Enter the kg value below</string>
+    <string name="wait_for_the_result">Wait for the result</string>
+</resources>
